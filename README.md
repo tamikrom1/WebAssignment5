@@ -1,9 +1,8 @@
 # Assignment #5. JavaScript Basics (DOM Manipulation & Events)
 
 **Name:** Tamerlan Iskakov
-**Group:** IT-2504
 
-**GitHub Pages:** https://YOUR_LOGIN.github.io/assignment5/
+**Group:** IT-2504
 
 ---
 
@@ -13,15 +12,15 @@
 
 Create a JavaScript `const` object named `userProfile` that stores various data types: string (name), number (birthYear), boolean (isDeveloper), and an array (hobbies).
 
+<img width="519" height="209" alt="Снимок экрана (711)" src="https://github.com/user-attachments/assets/26cb2fae-3ba8-40dc-b43f-ba1fdbb89d5e" />
 
-![Task 1 - userProfile object in console](screenshots/task1.png)
 
 ### Task 2. Arithmetic Calculations
 
 Write a script that uses arithmetic operators to calculate the user's current age dynamically, and another metric (age in months and hobbies count). Display the values in the console.
 
 
-![Task 2 - age, months and hobbies count](screenshots/task2.png)
+<img width="917" height="272" alt="Снимок экрана (712)" src="https://github.com/user-attachments/assets/6c979398-4264-41ad-b3ba-7fddee7ac6ca" />
 
 ---
 
@@ -31,20 +30,13 @@ Write a script that uses arithmetic operators to calculate the user's current ag
 
 Create a form with an input for Username, an input for Birth Year, and a "Create / Update Profile" submit button.
 
-![Task 3 - profile form](screenshots/task3.png)
+<img width="1168" height="324" alt="Снимок экрана (714)" src="https://github.com/user-attachments/assets/eba9c4a5-24e1-4182-884d-46da8960b2ee" />
 
 ### Task 4. Event Listener
 
 Add a submit event listener to the form. When submitted, capture the user's input values and update the `userProfile` object.
 
-
-Before submitting the form:
-
-![Task 4 - before update](screenshots/task4-before.png)
-
-After submitting the form (profile and age are updated):
-
-![Task 4 - after update](screenshots/task4-after.png)
+<img width="842" height="415" alt="Снимок экрана (713)" src="https://github.com/user-attachments/assets/e72d97af-2e62-493f-acfd-eb9ff7c985cb" />
 
 ---
 
@@ -54,21 +46,12 @@ After submitting the form (profile and age are updated):
 
 Create an unordered list (`<ul>`) of hobbies/tasks, an "Add Item" button that adds a new `<li>` from user input, and a "Remove Item" button that deletes the last item.
 
-Initial list:
-
-![Task 5 - initial list](screenshots/task5-initial.png)
-
-After adding an item:
-
-![Task 5 - item added](screenshots/task5-add.png)
-
-After removing the last item:
-
-![Task 5 - item removed](screenshots/task5-remove.png)
+<img width="1085" height="337" alt="Снимок экрана (715)" src="https://github.com/user-attachments/assets/76f40b86-92b0-4282-a45e-7701f9db02ab" />
+<img width="849" height="625" alt="Снимок экрана (716)" src="https://github.com/user-attachments/assets/02bd11c2-41bc-47a4-8e4b-4be32c05cc4d" />
 
 ---
 
-## Summary of my work process
+## Summary
 
 First, I created the project structure with `index.html` and `script.js`. Then I wrote the `userProfile` object with four data types (string, number, boolean, array) and used arithmetic operators to calculate age, age in months and the number of hobbies, showing the results in the console.
 
